@@ -16,12 +16,12 @@
 
 # Planned Modules
 ## UM_PixelSprite
-> Dyanmic pixelization of any renderable objects including 3D geometry, sprites, and particle effects. Contains additional tools for effects such as outlines, palette swapping, and more!
+> Dyanmic pixelization of any renderable objects including 3D geometry, sprites, and particle effects. Contains additional tools for effects such as outlines and palette swapping.
 
 > Adaptation of [an older project](http://rajinshankar.com/pixelsprite)
 
 ## UM_Camera3D
-> Additional functionality for dealing with perspective and orthographic cameras in a 3D setting. Will include additional camera controls, movement, blocking zones, and more!
+> Additional functionality for dealing with perspective and orthographic cameras in a 3D setting. Will include additional camera controls, movement, effects, and blocking zones.
 
 ## UM_Graphics
 > Framework for more easily integrating custom shaders and materials with gameplay scripts. Will include graphics stylesheets, extended shader includes, and more!
