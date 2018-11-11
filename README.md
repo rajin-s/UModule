@@ -18,7 +18,7 @@
 ## UM_PixelSprite
 > Dyanmic pixelization of any renderable objects including 3D geometry, sprites, and particle effects. Contains additional tools for effects such as outlines, palette swapping, and more!
 
-> Adaptation of [http://rajinshankar.com/pixelsprite](an older project)
+> Adaptation of [an older project](http://rajinshankar.com/pixelsprite)
 
 ## UM_Camera3D
 > Additional functionality for dealing with perspective and orthographic cameras in a 3D setting. Will include additional camera controls, movement, blocking zones, and more!
