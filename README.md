@@ -13,7 +13,7 @@
 
 ## [UM_Camera2D](https://github.com/rajin-s/UM_Camera2D)
 > Additional functionality for dealing with perspective or orthographic cameras in a 2D setting. Includes additional camera controls, movement, blocking zones, and more!
----
+
 # Planned Modules
 ## UM_PixelSprite
 > Dyanmic pixelization of any renderable objects including 3D geometry, sprites, and particle effects. Contains additional tools for effects such as outlines, palette swapping, and more!
@@ -25,6 +25,8 @@
 
 ## UM_ProceduralMusic
 > Tools for definition and playback of generative music that reacts to a game world through simple events and conditions.
+
 ---
+
 ## License
 > All modules are available to use for free according to the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
