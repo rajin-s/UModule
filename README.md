@@ -26,4 +26,5 @@
 ## UM_ProceduralMusic
 > Tools for definition and playback of generative music that reacts to a game world through simple events and conditions.
 ---
-> All modules are available to use according to the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
+## License
+> All modules are available to use for free according to the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
