@@ -23,6 +23,9 @@
 ## UM_Camera3D
 > Additional functionality for dealing with perspective and orthographic cameras in a 3D setting. Will include additional camera controls, movement, blocking zones, and more!
 
+## UM_Graphics
+> Framework for more easily integrating custom shaders and materials with gameplay scripts. Will include graphics stylesheets, extended shader includes, and more!
+
 ## UM_ProceduralMusic
 > Tools for definition and playback of generative music that reacts to a game world through simple events and conditions.
 
