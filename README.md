@@ -8,10 +8,10 @@
 > Each module can be found in its own repository and added to existing projects as a git submodule, or downloaded and extracted manually. If setup as a submodule, new updates can be pulled using `git submodule update --remote`.
 ---
 # Released Modules
-## [UM_Basic](https://github.com/rajin-s/UM_Basic)
+## [UM_Basic](https://github.com/rajin-s/UM_Basic) beta release
 > Basic structures for organization of data and behavior, required dependency of all other modules
 
-## [UM_Camera2D](https://github.com/rajin-s/UM_Camera2D)
+## [UM_Camera2D](https://github.com/rajin-s/UM_Camera2D) beta release
 > Additional functionality for dealing with perspective or orthographic cameras in a 2D setting. Includes additional camera controls, movement, blocking zones, and more!
 
 # Planned Modules
