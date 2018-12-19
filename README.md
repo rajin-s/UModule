@@ -14,6 +14,10 @@
 ## [UM_Camera2D](https://github.com/rajin-s/UM_Camera2D) beta release
 > Additional functionality for dealing with perspective or orthographic cameras in a 2D setting. Includes additional camera controls, movement, blocking zones, and more!
 
+# WIP Modules
+## UM_Noise3D
+> Basic structures for efficient 3D noise generation and editor tools for generating complex 3D noise textures
+
 # Planned Modules
 ## UM_PixelSprite
 > Dyanmic pixelization of any renderable objects including 3D geometry, sprites, and particle effects. Contains additional tools for effects such as outlines and palette swapping.
