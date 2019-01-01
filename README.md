@@ -16,7 +16,8 @@
 
 # WIP Modules
 ## UM_Noise3D
-> Basic structures for efficient 3D noise generation and editor tools for generating complex 3D noise textures
+> Basic structures for hardware-accelerated 3D noise generation and editor tools for generating complex 3D noise textures
+> Volumetric cloud material using textures generated from customizable noise presets.
 
 ## UM_qScript
 > Flexible API to define custom interpreted scripting languages for performance-light game features and prototypes.
